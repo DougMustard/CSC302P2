@@ -1,0 +1,11 @@
+j:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.exe
+J:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.deps.json
+J:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.json
+J:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.dev.json
+j:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.dll
+j:\CSC 302\prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.pdb
+j:\CSC 302\prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.csprojAssemblyReference.cache
+j:\CSC 302\prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfoInputs.cache
+j:\CSC 302\prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfo.cs
+j:\CSC 302\prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.dll
+j:\CSC 302\prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.pdb
