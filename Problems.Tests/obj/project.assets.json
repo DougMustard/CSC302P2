@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Problems/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Problems.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problems.dll": {}
+        }
       }
     }
   },
@@ -4567,12 +4577,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Problems/1.0.0": {
+      "type": "project",
+      "path": "../Problems/Problems.csproj",
+      "msbuildProject": "../Problems/Problems.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
+      "Problems >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4583,11 +4599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "j:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\Problems.Tests.csproj",
+      "projectUniqueName": "J:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\Problems.Tests.csproj",
       "projectName": "Problems.Tests",
-      "projectPath": "j:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\Problems.Tests.csproj",
+      "projectPath": "J:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\Problems.Tests.csproj",
       "packagesPath": "C:\\Users\\g18m2862\\.nuget\\packages\\",
-      "outputPath": "j:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\obj\\",
+      "outputPath": "J:\\CSC 302\\prac 2\\MyStuff\\Problems.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4605,7 +4621,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "j:\\CSC 302\\prac 2\\MyStuff\\Problems\\Problems.csproj": {
+              "projectPath": "j:\\CSC 302\\prac 2\\MyStuff\\Problems\\Problems.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
